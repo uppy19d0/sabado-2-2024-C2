@@ -1,2 +1,2 @@
-console.log('GITHUB----sabado-2-2024-C2/index.js ---GITHUB');
-console.log('hello world----GITHUB-----');
+console.log('LOCAL___hello----sabado-2-2024-C2/index.js ---LOCAL___hello');
+console.log('----LOCAL___hello world----LOCAL___hello-----');
